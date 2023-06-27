@@ -1,17 +1,16 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { Home } from "./pages/home";
+import { Overview } from "./pages/overview";
+import "./App.css"
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Pay the agreed upfront and expect magic in ~3 weeks.
-        </p>
-      </header>
-    </div>
+      <BrowserRouter>
+        <Routes >
+          <Route path="/" element={<Home />} />
+          <Route path="/projects/:id" element={<Overview />} />
+        </Routes>
+      </BrowserRouter>
   );
 }
 

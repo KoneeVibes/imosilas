@@ -1,0 +1,53 @@
+@media screen and (min-width: 0px) {
+    .carousel {
+        --thumbWidth: 160px;
+        margin-top: calc(-8.75rem - var(--pagePadding));
+    }
+
+    .carousel .thumbs {
+        margin: 0;
+        padding: 0;
+    }
+
+    .carousel .thumbs-wrapper {
+        margin: 0;
+    }
+
+    .carousel .thumb {
+        padding: 0;
+        border: none;
+        margin-right: 1rem;
+    }
+
+    .carousel .thumb.selected,
+    .carousel .thumb:hover {
+        border-radius: 12px;
+        border: 1px solid #FFF;
+    }
+
+    .carousel .carousel-status {
+        font-family: "Space Grotesk";
+        font-weight: 500;
+        font-size: 1.5625rem;
+        line-height: 1.1;
+        top: unset;
+        bottom: calc(var(--pagePadding) + 3rem);
+        right: var(--pagePadding);
+        padding: 0;
+        margin: 0;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .carousel .thumbs-wrapper {
+        padding-left: var(--pagePadding);
+    }
+
+    .carousel .thumbs-wrapper {
+        margin-right: 30vw;
+    }
+
+    .carousel .thumbs-wrapper:has(.thumbs .thumb:last-child.selected) {
+        margin-right: calc(30vw - var(--thumbWidth));
+    }
+}
