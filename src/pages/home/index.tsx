@@ -16,9 +16,9 @@ export const Home: React.FC<{}> = () => {
 
     return (
         <Carousel
-            // autoPlay={true}
+            autoPlay={true}
             autoFocus={true}
-            // infiniteLoop={true}
+            infiniteLoop={true}
             emulateTouch={true}
             showIndicators={false}
             thumbWidth={160}
