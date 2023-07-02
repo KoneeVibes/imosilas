@@ -17,14 +17,14 @@ export const projects: Projects = [
         indicator: "",
         introduction: "",
         details: {
-            "About": "",
-            "Release Date": "",
-            "Art Direction By": "",
-            "Design By": "",
-            "Category": "",
-            "Strategy": "",
+            "About": "Disgnplus",
+            "Release Date": "2022",
+            "Art Direction By": "Imoh Silas",
+            "Design By": "Imoh Silas",
+            "Category": "Agency",
+            "Strategy": "Emmanuel Afia",
         },
-        description: "",
+        description: "One of the main challenges of the project was to showcase Adapte's strong portfolio of work in a visually appealing and organized way. The website also needed to effectively communicate the value that Adapte brings to its clients as a design studio. The Adapte website project was a great success, significantly increasing the agency's online presence and helping to attract new clients. The website received an honorable mention from AWWWARDS, a prestigious award for website design, further showcasing the high-quality work produced by Adapte.",
         imgs: [
 
         ]
@@ -39,14 +39,14 @@ export const projects: Projects = [
         indicator: "",
         introduction: "",
         details: {
-            "About": "",
-            "Release Date": "",
-            "Art Direction By": "",
-            "Design By": "",
-            "Category": "",
-            "Strategy": "",
+            "About": "Pvzzle",
+            "Release Date": "2022",
+            "Art Direction By": "Imoh Silas",
+            "Design By": "Imoh Silas",
+            "Category": "Agency",
+            "Strategy": "Emmanuel Afia",
         },
-        description: "",
+        description: "One of the main challenges of the project was to showcase Adapte's strong portfolio of work in a visually appealing and organized way. The website also needed to effectively communicate the value that Adapte brings to its clients as a design studio. The Adapte website project was a great success, significantly increasing the agency's online presence and helping to attract new clients. The website received an honorable mention from AWWWARDS, a prestigious award for website design, further showcasing the high-quality work produced by Adapte.",
         imgs: [
 
         ]
@@ -61,14 +61,14 @@ export const projects: Projects = [
         indicator: "",
         introduction: "",
         details: {
-            "About": "",
-            "Release Date": "",
-            "Art Direction By": "",
-            "Design By": "",
-            "Category": "",
-            "Strategy": "",
+            "About": "Wurlet",
+            "Release Date": "2022",
+            "Art Direction By": "Imoh Silas",
+            "Design By": "Imoh Silas",
+            "Category": "Agency",
+            "Strategy": "Emmanuel Afia",
         },
-        description: "",
+        description: "One of the main challenges of the project was to showcase Adapte's strong portfolio of work in a visually appealing and organized way. The website also needed to effectively communicate the value that Adapte brings to its clients as a design studio. The Adapte website project was a great success, significantly increasing the agency's online presence and helping to attract new clients. The website received an honorable mention from AWWWARDS, a prestigious award for website design, further showcasing the high-quality work produced by Adapte.",
         imgs: [
 
         ]
@@ -83,14 +83,14 @@ export const projects: Projects = [
         indicator: "",
         introduction: "",
         details: {
-            "About": "",
-            "Release Date": "",
-            "Art Direction By": "",
-            "Design By": "",
-            "Category": "",
-            "Strategy": "",
+            "About": "Wurlet",
+            "Release Date": "2022",
+            "Art Direction By": "Imoh Silas",
+            "Design By": "Imoh Silas",
+            "Category": "Agency",
+            "Strategy": "Emmanuel Afia",
         },
-        description: "",
+        description: "One of the main challenges of the project was to showcase Adapte's strong portfolio of work in a visually appealing and organized way. The website also needed to effectively communicate the value that Adapte brings to its clients as a design studio. The Adapte website project was a great success, significantly increasing the agency's online presence and helping to attract new clients. The website received an honorable mention from AWWWARDS, a prestigious award for website design, further showcasing the high-quality work produced by Adapte.",
         imgs: [
 
         ]
@@ -104,14 +104,14 @@ export const projects: Projects = [
         indicator: "",
         introduction: "",
         details: {
-            "About": "",
-            "Release Date": "",
-            "Art Direction By": "",
-            "Design By": "",
-            "Category": "",
-            "Strategy": "",
+            "About": "Wurlet",
+            "Release Date": "2022",
+            "Art Direction By": "Imoh Silas",
+            "Design By": "Imoh Silas",
+            "Category": "Agency",
+            "Strategy": "Emmanuel Afia",
         },
-        description: "",
+        description: "One of the main challenges of the project was to showcase Adapte's strong portfolio of work in a visually appealing and organized way. The website also needed to effectively communicate the value that Adapte brings to its clients as a design studio. The Adapte website project was a great success, significantly increasing the agency's online presence and helping to attract new clients. The website received an honorable mention from AWWWARDS, a prestigious award for website design, further showcasing the high-quality work produced by Adapte.",
         imgs: [
 
         ]
@@ -125,14 +125,14 @@ export const projects: Projects = [
         indicator: "",
         introduction: "",
         details: {
-            "About": "",
-            "Release Date": "",
-            "Art Direction By": "",
-            "Design By": "",
-            "Category": "",
-            "Strategy": "",
+            "About": "Wurlet",
+            "Release Date": "2022",
+            "Art Direction By": "Imoh Silas",
+            "Design By": "Imoh Silas",
+            "Category": "Agency",
+            "Strategy": "Emmanuel Afia",
         },
-        description: "",
+        description: "One of the main challenges of the project was to showcase Adapte's strong portfolio of work in a visually appealing and organized way. The website also needed to effectively communicate the value that Adapte brings to its clients as a design studio. The Adapte website project was a great success, significantly increasing the agency's online presence and helping to attract new clients. The website received an honorable mention from AWWWARDS, a prestigious award for website design, further showcasing the high-quality work produced by Adapte.",
         imgs: [
 
         ]
@@ -146,14 +146,14 @@ export const projects: Projects = [
         indicator: "",
         introduction: "",
         details: {
-            "About": "",
-            "Release Date": "",
-            "Art Direction By": "",
-            "Design By": "",
-            "Category": "",
-            "Strategy": "",
+            "About": "Wurlet",
+            "Release Date": "2022",
+            "Art Direction By": "Imoh Silas",
+            "Design By": "Imoh Silas",
+            "Category": "Agency",
+            "Strategy": "Emmanuel Afia",
         },
-        description: "",
+        description: "One of the main challenges of the project was to showcase Adapte's strong portfolio of work in a visually appealing and organized way. The website also needed to effectively communicate the value that Adapte brings to its clients as a design studio. The Adapte website project was a great success, significantly increasing the agency's online presence and helping to attract new clients. The website received an honorable mention from AWWWARDS, a prestigious award for website design, further showcasing the high-quality work produced by Adapte.",
         imgs: [
 
         ]
@@ -167,14 +167,14 @@ export const projects: Projects = [
         indicator: "",
         introduction: "",
         details: {
-            "About": "",
-            "Release Date": "",
-            "Art Direction By": "",
-            "Design By": "",
-            "Category": "",
-            "Strategy": "",
+            "About": "Wurlet",
+            "Release Date": "2022",
+            "Art Direction By": "Imoh Silas",
+            "Design By": "Imoh Silas",
+            "Category": "Agency",
+            "Strategy": "Emmanuel Afia",
         },
-        description: "",
+        description: "One of the main challenges of the project was to showcase Adapte's strong portfolio of work in a visually appealing and organized way. The website also needed to effectively communicate the value that Adapte brings to its clients as a design studio. The Adapte website project was a great success, significantly increasing the agency's online presence and helping to attract new clients. The website received an honorable mention from AWWWARDS, a prestigious award for website design, further showcasing the high-quality work produced by Adapte.",
         imgs: [
 
         ]
@@ -188,14 +188,14 @@ export const projects: Projects = [
         indicator: "",
         introduction: "",
         details: {
-            "About": "",
-            "Release Date": "",
-            "Art Direction By": "",
-            "Design By": "",
-            "Category": "",
-            "Strategy": "",
+            "About": "Wurlet",
+            "Release Date": "2022",
+            "Art Direction By": "Imoh Silas",
+            "Design By": "Imoh Silas",
+            "Category": "Agency",
+            "Strategy": "Emmanuel Afia",
         },
-        description: "",
+        description: "One of the main challenges of the project was to showcase Adapte's strong portfolio of work in a visually appealing and organized way. The website also needed to effectively communicate the value that Adapte brings to its clients as a design studio. The Adapte website project was a great success, significantly increasing the agency's online presence and helping to attract new clients. The website received an honorable mention from AWWWARDS, a prestigious award for website design, further showcasing the high-quality work produced by Adapte.",
         imgs: [
 
         ]

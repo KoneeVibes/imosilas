@@ -1,4 +1,4 @@
-import { TypographyProps } from "@mui/material"
+import { TypographyProps, BoxProps } from "@mui/material"
 
 export type Projects = {
     name: string
@@ -25,6 +25,11 @@ export type ThumbnailProps = {
     alt?: string
 }
 
+export type NavProps = {
+    logo: React.ReactNode
+    utility: React.ReactNode
+}
+
 export type TimerProps = TypographyProps
 
 export type ArrowProps = ThumbnailProps & {
@@ -33,6 +38,14 @@ export type ArrowProps = ThumbnailProps & {
 }
 
 export type HomeBodyProps = {
-    projectName: string
-    projectURL: string
+    projectName?: string
+    projectURL?: string
+}
+
+export type HeaderProps = HomeBodyProps & BoxProps
+
+export type ProjectProps = {
+    bg: string
+    name: string
+    url: string
 }

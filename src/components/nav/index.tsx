@@ -1,7 +1,7 @@
-import { Grid, Typography } from "@mui/material"
-import { Timer } from "../timer"
+import { Grid } from "@mui/material"
+import { NavProps } from "../../types/app.type"
 
-export const Nav: React.FC<{}> = () => {
+export const Nav: React.FC<NavProps> = ({ logo, utility }) => {
 
     return (
         <Grid
@@ -13,33 +13,13 @@ export const Nav: React.FC<{}> = () => {
                 item
                 overflow={"hidden"}
             >
-                <Typography
-                    variant="subtitle1"
-                    color="#FFF"
-                    fontFamily={"Space Grotesk"}
-                    fontWeight={500}
-                    line-height={"1.1"}
-                    sx={{
-                        fontSize: { mobile: "20px" }
-                    }}
-                >
-                    Imoh Silas
-                </Typography>
+                {logo}
             </Grid>
             <Grid
                 item
                 overflow={"hidden"}
             >
-                <Timer
-                    variant="subtitle1"
-                    color={"#FFF"}
-                    fontFamily={"Space Grotesk"}
-                    fontWeight={500}
-                    line-height={"1.1"}
-                    sx={{
-                        fontSize: { mobile: "20px" }
-                    }}
-                />
+                {utility}
             </Grid>
         </Grid >
     )
