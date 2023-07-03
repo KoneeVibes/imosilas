@@ -2,8 +2,7 @@
   html {
     box-sizing: border-box;
     margin: 0;
-    height: fill-available;
-    height: -webkit-fill-available;
+    height: stretch;
     --card-padding: 2rem;
     --pagePadding: 1.25rem;
     --flexGap: 1.25rem;
